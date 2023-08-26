@@ -1,0 +1,35 @@
+{
+ 
+  "tips": "Tips",
+  "@tips": {
+    "description": "This is Tips"
+  },
+  "dailyChoice": "Daily Choice",
+  "@dailyChoice": {
+   "description": "This is Daily Choice"
+  },
+  "dailySpecial": "Weekly Special Tip",
+  "@dailySpecial": {
+    "description": "This is Daily_Choice"
+  },
+  
+
+  "weeklySpecialTip": "Weekly Special Tip",
+  "@weeklySpecialTip": {
+    "description": "This is Weekly_Special_Tip"
+  },
+  "weeklyChoice": "Weekly Choice",
+   "@weeklyChoice": {
+    "description": "This is Weekly_Choice"
+  },
+
+  "threeDTips": "3D Tips",
+  "@threeDTips": {
+    "description": "This is 3D_Tips"
+  },
+  "specialTip": "Special Tip",
+  "@specialTip": {
+    "description": "This is Special_Tip"
+  }
+  
+}
